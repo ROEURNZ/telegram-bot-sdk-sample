@@ -1,0 +1,3 @@
+composer require laravel/horizon  --ignore-platform-req=ext-pcntl --ignore-platform-req=ext-posix
+
+composer require laravel-notification-channels/telegram --ignore-platform-req=ext-pcntl --ignore-platform-req=ext-posix
